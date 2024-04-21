@@ -50,7 +50,7 @@
    <img align="center" alt="Vs.code" height="40" width="40" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
   <img align="center" alt="bigquery" height="40" width="40" src="https://img.icons8.com/color/48/export-collections.png" alt="export-collections"/>
   <img align="center" alt="qgis" height="40" width="40" src="https://img.icons8.com/ios/50/qgis.png" alt="qgis"/>
-  <img align="center" alt="Js" height="40" width="40" src="https://lh3.googleusercontent.com/pw/AP1GczMrTiglTtGiHmHE8CmpBt2MsD2dhVm2gt-M_yQ5BN4uasgtrmIDT2Cn_ecFLYfO86wBQ_Ml_dp9YagHdRbSYCJcmizGOSSf4xHcfWnoVShq4lt8NByGQ_MeU8MGZPA5nl9UyWl6JE_Q1nm9djuHi9_xt65dqIvTle0-XhzI_AX3CoI1yd0oaMLfdp1H7XkYgYddXyui_3ntqT1Gu38PTzgVl3cIJvbfUlOVjuboyHKP95MCm9TmNEkNgmoU0zuGmHKJvQXgN86oveeCQ8K0D4CH7xiQkIQ8k0F8nD9o7vcqEc8mXEwhxw8tq_eViTa0N1-SLX0p8GCJMue4yjw1t3TcqI3inF8iCvetjGdkV6Duf6UhmyF1apdTD-luBeOpzJ8JRjOaCu2Orrpk5aT9FqRj4C9fBGO7kJDnbj7w_T4JeKVxJ2GPZUNiCWYDFQ-i0zPkRIaZLDJRUUZl0OngsAN5ktZSUKO3lmmldejXh5_npmt3LFQcgHbHGrnIdQOwk9yUZGP56lKGJ704D3oP1bZmYCgqs0uy1iwy5tAXI0g2xB-bLSKxRwkavMUVWYIvEUvGWW0tKns58cgQE-BGN72ZHfvO6y3QOWPDIv-mhFnsaQvtVyWNDOnuN6hMCAF75YuDvd7uvm4xKA0-356aBQ9cF4EJwyvQKW4w5yiQgXbD5w2_XsAK06MKPfWp-qhDTscBrIakOMFhz2nDh7dEQ0uLj_h1JP_m2wOaOJmVcoSdfMGEr0keJJzBVbKWCVYmUlz25V5gPdKOsnBoQUh3TU910T8CfmoJaRyQst1Bfv_WoX90bBVNVbx3HH6hYP_ME63PFntDrsNTwtRETBRCiGpGljfURqvQx3aMuOFTnYEJ9EcqeDlXA7ocgutg8vSJUoEGNMwjYldcX0IIRSPZP7Go=w152-h148-s-no-gm?authuser=0">
+  <img align="center" alt="Js" height="40" width="40" src="https://lh3.googleusercontent.com/pw/AP1GczP1UmLudD5SEAR05bjFXQIk7FLOrMoEmMDEwmbOcVsW-EUguT_Av6XSyyo25Hl3qfFr95inE29onu6fDbAQxhdeldmce1gZo2kkw_yCJwMMpu1pZpfmyrdea9B_d6jNULWZ6rHKxD9jvTxcTRzMtIsv=w152-h148-s-no-gm?authuser=0">
 </div>
 
 
