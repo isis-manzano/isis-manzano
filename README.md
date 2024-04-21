@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=190&color=FFC0CB&text=Bem%20vindo-nl-ao%20meu%20GitHub&fontAlign=48&reversal=true&textBg=false&fontColor=D8BFD8&fontSize=70&fontAlignY=35&animation=twinkling&rotate=0&stroke=696969&strokeWidth=1&descAlign=17&descAlignY=20"/>
 
 <div align="center">  
-   <img width="49%" height="195px" padding="15px" src="https://github-readme-stats.vercel.app/api?username=isis-manzano&show_icons=true&count_private=true&title_color=FFFFFF&icon_color=fff&bgtext_color=c9d1d9&bg_color=FFD7DD&border_color=807B7F" /> 
+   <img width="49%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=isis-manzano&show_icons=true&count_private=true&title_color=FFFFFF&icon_color=fff&bgtext_color=c9d1d9&bg_color=FFD7DD&border_color=807B7F" /> 
   
-   <img width="49%" height="195px" padding="15px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isis-manzano&layout=compact&title_color=FFFFFF&text_color=434D58&bg_color=FFD7DD&border_color=807B7F"/>
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isis-manzano&layout=compact&title_color=FFFFFF&text_color=434D58&bg_color=FFD7DD&border_color=807B7F"/>
 </div>
 
 <img width=100% src="https://lh3.googleusercontent.com/pw/AP1GczNfIXRkwsEUqnASY6k68Ub1Tu99Zj-nsQPgNmLarjPlSzLfAmeQ1XAl4Sz8cnuwaKwP8p-PwTL8zIrLyIiWA_0TbMD4vk4ILtywKRZ5MtERRRcpsuS8H-ahqkd1ZAzIWSHV5vFnhDWQ9_cT0--2ZOYSmSvgtPbZ4DDAAAutiUvsiw4cKOWdI2QwsO-mfJ9VvpNyTyrnaorzUzJ9Rn85jm6cbSLOYYFjtgwW6uaN-c2kuPhpPQej4oF2oejXL4hnrVTKJEiTtYUrb0J-GyNDfILn354VOd59NHIPsPIqYYjUPRnQC-LXYRygFTF4dLrjMzS459FqHVT3YGeeBBEKasSE3tcI0duqczsi-W_ZL0FWe3U8isYbMZDezBy9Ss3Km8-Etjqeqyq9sVAbOLpp4T5OHVDmwYWGufMxwpxgszItP0m6QOq31DQ_LuWs-L0aMHu73zsjjxlAeL0Kdq_Ro3f2ysQtFtmfm93ku49Cxtmcda0n4ySpvipMZy0y-wsXCnQrJM0eDCXk1hH4iYbFTqNSe9g0v43DQFaqmlWiA7adgIBqTBxPeYIgzOXGrxtgL32M0YVKEqBEAsw6lSh0Tm27n3dhEWj_h2W5BMaezo8_ZcbkrMs0JxtLGzzilkXbHW5p73NSyp9q3UOtn8ERO_bJiTcSDUtY8cUnnfRKBMdBPo5ByYjzdvApT2xC27IfPl-XDElvRbCX8pIj-4F-W8KnQgq1tedT7T7H6kX-nA2q1lIbPqqKPIVha5Obd54SeXv6vgFghkSb4RxIuYHd8asBj7gwfAexoTu2Dskt2MPyypgGJfWI5RJ0fHX9ns74N2My7PuZli-Y-DzeyvfaWMLajV0SCmOTG3YcxsJDstALMjJqif-bNlk3y1Gmy_ShWudnQO8cRWAwLqZgwtyHkOYa=w1598-h60-s-no-gm?authuser=0"/>
