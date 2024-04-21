@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=190&color=FFC0CB&text=Bem%20vindo-nl-ao%20meu%20GitHub&fontAlign=48&reversal=true&textBg=false&fontColor=D8BFD8&fontSize=70&fontAlignY=35&animation=twinkling&rotate=0&stroke=696969&strokeWidth=1&descAlign=17&descAlignY=20"/>
 
 <div align="center">  
-   <img width="49%" height="195px" padding="15px"src="https://github-readme-stats.vercel.app/api?username=isis-manzano&show_icons=true&count_private=true&title_color=FFFFFF&icon_color=fff&bgtext_color=c9d1d9&bg_color=FFD7DD&border_color=807B7F" /> 
+   <img width="49%" height="195px" padding="15px" src="https://github-readme-stats.vercel.app/api?username=isis-manzano&show_icons=true&count_private=true&title_color=FFFFFF&icon_color=fff&bgtext_color=c9d1d9&bg_color=FFD7DD&border_color=807B7F" /> 
   
    <img width="49%" height="195px" padding="15px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isis-manzano&layout=compact&title_color=FFFFFF&text_color=434D58&bg_color=FFD7DD&border_color=807B7F"/>
 </div>
