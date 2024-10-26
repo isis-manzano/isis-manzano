@@ -7,7 +7,6 @@
    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isis-manzano&show_icons=true&count_private=true&title_color=FFFFFF&icon_color=fff&bgtext_color=c9d1d9&bg_color=FFD7DD&border_color=807B7F&langs_count=10"/>
 </div>
 
-<img width=100% src="https://lh3.googleusercontent.com/pw/AP1GczPDi3zkyzjwV7duy6erpMG3l5E0YQ8j9Ku8ldIgHOA4-DHfvHeYY9NdrWKzKJK2u48mS05FOJIVTqWJW28bVup18J-p0sE0FXD2HbX2ToK3soiTX2kd0yMNvNwbD1wGGWd0SWP8IChhCBHYNnqCZh95=w802-h30-s-no-gm?authuser=0"/>
 
 # Olá!!  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />    Eu sou a Isis Manzano
 
@@ -31,10 +30,6 @@
 </div>
 
 
-<img width=100% src="https://lh3.googleusercontent.com/pw/AP1GczPDi3zkyzjwV7duy6erpMG3l5E0YQ8j9Ku8ldIgHOA4-DHfvHeYY9NdrWKzKJK2u48mS05FOJIVTqWJW28bVup18J-p0sE0FXD2HbX2ToK3soiTX2kd0yMNvNwbD1wGGWd0SWP8IChhCBHYNnqCZh95=w802-h30-s-no-gm?authuser=0"/>
-
-
-
 ## Linguagens 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -50,10 +45,8 @@
    <img align="center" alt="Vs.code" height="40" width="40" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
   <img align="center" alt="bigquery" height="40" width="40" src="https://img.icons8.com/color/48/export-collections.png" alt="export-collections"/>
   <img align="center" alt="qgis" height="40" width="40" src="https://img.icons8.com/ios/50/qgis.png" alt="qgis"/>
-  <img align="center" alt="Js" height="40" width="40" src="https://lh3.googleusercontent.com/pw/AP1GczP1UmLudD5SEAR05bjFXQIk7FLOrMoEmMDEwmbOcVsW-EUguT_Av6XSyyo25Hl3qfFr95inE29onu6fDbAQxhdeldmce1gZo2kkw_yCJwMMpu1pZpfmyrdea9B_d6jNULWZ6rHKxD9jvTxcTRzMtIsv=w152-h148-s-no-gm?authuser=0">
 </div>
 
 
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FFC0CB&fontAlign=48&reversal=true&textBg=false&fontColor=D8BFD8&fontSize=70&fontAlignY=35&animation=twinkling&rotate=0&stroke=696969&strokeWidth=1&descAlign=17&descAlignY=20&section=footer"/>
-<img width=100% src="https://lh3.googleusercontent.com/pw/AP1GczPDi3zkyzjwV7duy6erpMG3l5E0YQ8j9Ku8ldIgHOA4-DHfvHeYY9NdrWKzKJK2u48mS05FOJIVTqWJW28bVup18J-p0sE0FXD2HbX2ToK3soiTX2kd0yMNvNwbD1wGGWd0SWP8IChhCBHYNnqCZh95=w802-h30-s-no-gm?authuser=0"/>
