@@ -8,7 +8,7 @@
 </div>
 
 
-# Olá!!  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />    Eu sou a Isis Manzano
+# Olá!!  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />    Eu sou a Isis Manzano //<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />  <br />
 
 
 <img align="right" width="250px" style="margin-top:-20px" src="https://lh3.googleusercontent.com/pw/AP1GczOIfN09IrRq0vhnDa4MpjT16--lqzCLnGa2bvOPHlH36vgfcZNIqQl5fnOUZ8SKkdu_Nr2j9gvZODWN_9ha6lWDqlKPLMVrkv7M8qjhBwtcax50EZBYuPQNnjxH_MAc6kaet6o1DoS3I_-wAFxQZsso=w500-h500-s-no-gm?authuser=0" style="max-width: 90; height: auto;"/>
