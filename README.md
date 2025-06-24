@@ -13,8 +13,7 @@
 
 <img align="right" width="250px" style="margin-top:-20px" src="https://lh3.googleusercontent.com/pw/AP1GczOIfN09IrRq0vhnDa4MpjT16--lqzCLnGa2bvOPHlH36vgfcZNIqQl5fnOUZ8SKkdu_Nr2j9gvZODWN_9ha6lWDqlKPLMVrkv7M8qjhBwtcax50EZBYuPQNnjxH_MAc6kaet6o1DoS3I_-wAFxQZsso=w500-h500-s-no-gm?authuser=0" style="max-width: 90; height: auto;"/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />  <br />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Evergreen%20Tree.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Trabalho como Engenheira Florestal na Arauco<br /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />  <br />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Evergreen%20Tree.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Trabalho como Engenheira Florestal na Arauco<br />
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Sou estudante de Ciência de dados para inteligência Artificial<br />
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Estou criando esse perfil para estudar e aprender um pouco mais <br />
 
